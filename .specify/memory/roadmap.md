@@ -10,7 +10,7 @@ Status legend (lifecycle): **undecided** · **needs-info** · **planned** ·
 
 ## Planned Specs
 
-### 001 — Slug function  [status: planned]
+### 001 — Slug function  [status: verified]
 
 - **Description:** A `slugify` function for short, URL-safe identifiers.
 - **Outcome:** `slugify(text)` meets every rule in its spec, including the acceptance details.
